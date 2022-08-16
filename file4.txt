@@ -1,1 +1,2 @@
 This is bantu'file4.txt' 
+win lost 'file4.txt' 
